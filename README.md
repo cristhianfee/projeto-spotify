@@ -5,6 +5,6 @@ esse foi um projeto que eu fiz utilizando apenas as tecnologias html css bootstr
 As seguintes ferramentas foram usadas na construção do projeto:
 
 Linguagem de programação
-HTML5 CSS BOOTSTRAP
+HTML5 CSS BOOTSTRAP <br>
 Ambiente de desenvolvimento
-Sublimetext
+Sublime text
